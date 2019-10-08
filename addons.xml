@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.nobrains" name="NoBrains" version="0.1.9" provider-name="NoBrains">
+<addon id="plugin.program.nobrains" name="NoBrains" version="0.2.0" provider-name="NoBrains">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
