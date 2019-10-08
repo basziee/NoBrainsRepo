@@ -327,7 +327,7 @@ def buildMenu():
 def viewBuild(name):
 	dialog = xbmcgui.Dialog()
 	WORKINGURL = wiz.workingURL(BUILDFILE)
-	buildnamestring = "NoBrain base build"
+	buildnamestring = "No Brain Private Build"
 	pinpassIsCorrect = False
 	if buildnamestring in name:
 		correctPassword = '7000'
